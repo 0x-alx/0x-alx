@@ -13,5 +13,5 @@ Je suis un développeur web front-end passionné par la création d'applications
 
 ## 📫 Contactez-moi
 
-- **LinkedIn :** [Ton Profil LinkedIn](https://www.linkedin.com/in/alex-chrb)
+- **LinkedIn :** [ICI](https://www.linkedin.com/in/alex-chrb)
 

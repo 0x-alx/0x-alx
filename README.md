@@ -4,9 +4,11 @@ Je suis un développeur web front-end passionné par la création d'applications
 
 ## 🚀 Compétences
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)]
-- **Langages :** JavaScript, TypeScript, HTML, CSS.
-- **Frameworks et Bibliothèques :** React, Redux, Next.js
+### Langages 
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,)
+
+### Frameworks et Bibliothèques
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,)
 - **Outils et Technologies :** Git, Webpack, Babel, ESLint, Prettier
 - **Testing :** Jest, React Testing Library
 - **UI/UX :** Responsive Design, Material-UI, Tailwind CSS

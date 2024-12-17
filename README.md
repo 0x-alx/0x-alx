@@ -1,6 +1,6 @@
 # 👋 Salut, je suis Alex !
 
-Je suis un développeur web front-end passionné par la création d'applications web interactives et performantes. Avec une expertise en React et TypeScript, je me consacre à la construction d'expériences utilisateur fluides et intuitives.
+Je suis un développeur web fullstack passionné par la création d'applications web interactives et performantes. Avec une expertise en React et TypeScript, je me consacre à la construction d'expériences utilisateur fluides et intuitives.
 
 ## 🚀 Compétences
 

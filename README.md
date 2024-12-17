@@ -8,7 +8,7 @@ Je suis un développeur web front-end passionné par la création d'applications
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,)
 
 ### Frameworks et Bibliothèques
-![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,tailwind)
+![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,redux,tailwind)
   
 
 ## 📫 Contactez-moi
